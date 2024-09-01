@@ -1,0 +1,170 @@
+[
+	{
+		"courseCode": "CSCI1130B",
+		"courseName": "Introduction to Computing Using Java",
+		"lessons": [
+			{
+				"weekday": 2,
+				"hour": 9,
+				"minute": 30,
+				"length": 105,
+				"venue": "MMW LT1",
+				"type": "Lecture",
+				"active": true
+			},
+			{
+				"weekday": 3,
+				"hour": 9,
+				"minute": 30,
+				"length": 45,
+				"venue": "ERB 407",
+				"type": "Lecture",
+				"active": true
+			},
+			{
+				"weekday": 3,
+				"hour": 10,
+				"minute": 30,
+				"length": 45,
+				"venue": "ERB 407",
+				"type": "Tutorial",
+				"active": true
+			}
+		]
+	},
+	{
+		"courseCode": "JASP2450A",
+		"courseName": "日本語（三）",
+		"lessons": [
+			{
+				"weekday": 2,
+				"hour": 12,
+				"minute": 30,
+				"length": 105,
+				"venue": "LSK 204",
+				"type": "Lecture",
+				"active": true
+			},
+			{
+				"weekday": 4,
+				"hour": 12,
+				"minute": 30,
+				"length": 105,
+				"venue": "LSK 202",
+				"type": "Lecture",
+				"active": true
+			}
+		]
+	},
+	{
+		"courseCode": "CHLT1002GH",
+		"courseName": "大學中文（二）",
+		"lessons": [
+			{
+				"weekday": 4,
+				"hour": 8,
+				"minute": 30,
+				"length": 105,
+				"venue": "CKB 706B",
+				"type": "Lecture",
+				"active": true
+			}
+		]
+	},
+	{
+		"courseCode": "ENGG2440A",
+		"courseName": "Discrete Mathematics for Engineers",
+		"lessons": [
+			{
+				"weekday": 1,
+				"hour": 9,
+				"minute": 30,
+				"length": 105,
+				"venue": "ERB LT",
+				"type": "Lecture",
+				"active": true
+			},
+			{
+				"weekday": 3,
+				"hour": 13,
+				"minute": 30,
+				"length": 45,
+				"venue": "MMW LT1",
+				"type": "Lecture",
+				"active": true
+			},
+			{
+				"weekday": 4,
+				"hour": 9,
+				"minute": 30,
+				"length": 105,
+				"venue": "TYW LT",
+				"type": "Tutorial",
+				"active": true
+			}
+		]
+	},
+	{
+		"courseCode": "ENGG2760A",
+		"courseName": "Probability for Engineers",
+		"lessons": [
+			{
+				"weekday": 1,
+				"hour": 14,
+				"minute": 30,
+				"length": 105,
+				"venue": "MMW LT1",
+				"type": "Lecture",
+				"active": true
+			},
+			{
+				"weekday": 4,
+				"hour": 16,
+				"minute": 30,
+				"length": 105,
+				"venue": "LSB C1",
+				"type": "Tutorial",
+				"active": true
+			}
+		]
+	},
+	{
+		"courseCode": "UGFH1000H",
+		"courseName": "與人文對話",
+		"lessons": [
+			{
+				"weekday": 3,
+				"hour": 14,
+				"minute": 30,
+				"length": 105,
+				"venue": "YIA 511",
+				"type": "Tutorial",
+				"active": true
+			},
+			{
+				"weekday": 5,
+				"hour": 14,
+				"minute": 30,
+				"length": 45,
+				"venue": "YIA LT5",
+				"type": "Lecture",
+				"active": true
+			}
+		]
+	},
+	{
+		"courseCode": "UGED1815",
+		"courseName": "Philosophy as a Way of Life",
+		"lessons": [
+			{
+				"weekday": 3,
+				"hour": 16,
+				"minute": 30,
+				"length": 105,
+				"venue": "LSK 306",
+				"type": "Lecture",
+				"active": true
+			}
+		]
+	}
+]

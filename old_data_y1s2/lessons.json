@@ -1,0 +1,146 @@
+[
+	{
+		"courseCode": "ENGG2020",
+		"courseName": "Digital Logic and Systems",
+		"lessons": [
+			{
+				"weekday": 1,
+				"hour": 9,
+				"minute": 30,
+				"length": 105,
+				"venue": "TYW LT",	
+				"type": "Lecture",
+				"active": false
+			},
+			{
+				"weekday": 2,
+				"hour": 15,
+				"minute": 30,
+				"length": 45,
+				"venue": "MMW 707",
+				"type": "Tutorial",
+				"active": false
+			},
+			{
+				"weekday": 3,
+				"hour": 10,
+				"minute": 30,
+				"length": 45,
+				"venue": "LSB LT1",
+				"type": "Lecture",
+				"active": false
+			}
+		]
+	},
+	{
+		"courseCode": "JASP1460J",
+		"courseName": "日本語（二）",
+		"lessons": [
+			{
+				"weekday": 2,
+				"hour": 10,
+				"minute": 30,
+				"length": 105,
+				"venue": "WMY 407",
+				"type": "Lecture",
+				"active": false
+			},
+			{
+				"weekday": 4,
+				"hour": 16,
+				"minute": 30,
+				"length": 105,
+				"venue": "LSK 202",
+				"type": "Lecture",
+				"active": false
+			}
+		]
+	},
+	{
+		"courseCode": "ELTU1002BIC1",
+		"courseName": "大学英語（一）",
+		"lessons": [
+			{
+				"weekday": 2,
+				"hour": 12,
+				"minute": 30,
+				"length": 105,
+				"venue": "FYB 401",
+				"type": "Classwork",
+				"active": false
+			},
+			{
+				"weekday": 4,
+				"hour": 14,
+				"minute": 30,
+				"length": 45,
+				"venue": "YIA 509",
+				"type": "Classwork",
+				"active": false
+			}
+		]
+	},
+	{
+		"courseCode": "ENGG1130F",
+		"courseName": "多変数微積分",
+		"lessons": [
+			{
+				"weekday": 2,
+				"hour": 16,
+				"minute": 30,
+				"length": 105,
+				"venue": "ELB LT1",
+				"type": "Lecture",
+				"active": false
+			},
+			{
+				"weekday": 4,
+				"hour": 12,
+				"minute": 30,
+				"length": 105,
+				"venue": "ELB LT1",
+				"type": "Lecture + Tutorial",
+				"active": false
+			}
+		]
+	},
+	{
+		"courseCode": "ENGG1120F",
+		"courseName": "線形代数",
+		"lessons": [
+			{
+				"weekday": 3,
+				"hour": 11,
+				"minute": 30,
+				"length": 105,
+				"venue": "YIA LT7",
+				"type": "Lecture",
+				"active": false
+			},
+			{
+				"weekday": 5,
+				"hour": 9,
+				"minute": 30,
+				"length": 105,
+				"venue": "YIA LT5",
+				"type": "Lecture + Tutorial",
+				"active": false
+			}
+		]
+	},
+	{
+		"courseCode": "PHED1027G",
+		"courseName": "Handball (Men)",
+		"lessons": [
+			{
+				"weekday": 3,
+				"hour": 14,
+				"minute": 30,
+				"length": 105,
+				"venue": "Lingnan Stadium",
+				"type": "Lecture",
+				"active": false
+			}
+		]
+	}
+]
